@@ -1,6 +1,6 @@
 /*
  * Free software. Use at your own risk. Okay to modify and re-distribute.
- * Project is at https://code.google.com/p/sfnrpc
+ * Thank you
  * 
  */
 package sfn.core.rpc.test;
